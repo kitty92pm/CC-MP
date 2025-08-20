@@ -1,6 +1,6 @@
 ### CC-MP
 
-Yes below is the real Loader for CC-MP.
+Yes below is the real Loader for [CC-MP.](https://github.com/wrodsarehnjj/CC-MP-Loader)
 ```
 https://github.com/wrodsarehnjj/CC-MP-Loader
 ```
