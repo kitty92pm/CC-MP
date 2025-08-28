@@ -9,3 +9,17 @@ https://github.com/wrodsarehnjj/CC-MP-Loader
 + All info is located at the github above ^
 ```
 > Everything is trustable if you dont trust it dont use it.
+
+-------------------------------
+
+### INFO
+
+```diff
++ Obfuscated for secuirty
+- Buggy
++ Has admin panel
++ Has secure anti cheat
++ Fully customizable
+```
+
+IM NOT UNOBFUSCATING THIS
